@@ -9,13 +9,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hookform/resolvers": "^3.1.0",
     "@phosphor-icons/react": "^2.0.6",
     "eslint": "^8.37.0",
+    "form": "^0.2.4",
+    "hook": "^0.0.5",
     "i": "^0.3.7",
     "phosphor-icons": "^1.4.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.9.0"
+    "react-hook-form": "^7.43.9",
+    "react-hooks-useform": "^0.1.86",
+    "react-router-dom": "^6.9.0",
+    "zod": "^3.21.4"
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^1.2.0",
